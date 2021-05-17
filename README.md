@@ -1,4 +1,4 @@
 # turbo-waddle
 
-Mitt namn: Christoffer Wallenberg
+Mitt namn: Christoffer
 Stad: Göteborg
